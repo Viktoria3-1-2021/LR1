@@ -1,0 +1,5 @@
+﻿  LR1_2.cpp
+C:\Users\vika-\source\repos\LR1_2\LR1_2\LR1_2.cpp(30,15): warning C4305: =: усечение из "int" в "char"
+C:\Users\vika-\source\repos\LR1_2\LR1_2\LR1_2.cpp(30,11): warning C4309: =: усечение константного значения
+C:\Users\vika-\source\repos\LR1_2\LR1_2\LR1_2.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+  LR1_2.vcxproj -> C:\Users\vika-\source\repos\LR1_2\Debug\LR1_2.exe
